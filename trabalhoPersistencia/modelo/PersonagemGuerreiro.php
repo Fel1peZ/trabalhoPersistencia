@@ -2,7 +2,7 @@
 
     require_once("Personagem.php");
 
-    class PersonagemGuerreiro extends Personagem {0
+    class PersonagemGuerreiro extends Personagem {
 
         private int $ataque;
         private string $arma;

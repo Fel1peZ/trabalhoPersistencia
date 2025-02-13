@@ -9,7 +9,7 @@ require_once("dao/PersonagemDAO.php");
 do {
 
 
-    echo "\n----------CADASTRO DE CLIENTES-----\n";
+    echo "\n----------CADASTRO DE PERSONAGENS-----\n";
     echo "1- Cadastrar Personagem Mago\n";
     echo "2- Cadastrar Personagem Guerreiro\n";
     echo "3- Listar Personagem \n";

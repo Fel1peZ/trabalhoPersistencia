@@ -1,5 +1,5 @@
 
-CREATE TABLE clientes(
+CREATE TABLE personagens(
     id int AUTO_INCREMENT NOT NULL,
     tipo varchar(1) NOT NULL,
     nomeJogador varchar(70) NOT NULL,
